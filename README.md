@@ -1,2 +1,3 @@
 # git-exercise
-This is my second try at this... Hello git world!
+This is my second try at this... Hello git world! Hello again!
+
